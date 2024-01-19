@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+    box-sizing: border-box;
+}
+
+body{
+    background: #79c6f3;
+    margin-top: 20px;
+    margin-bottom: 130px;
+}
+
+.container{
+    width: 98%;
+    height: 90vh;
+    margin: 0% auto;
+    padding: 10px;
+}
+
+div{
+    border-radius: 20px;
+    width: 32%;
+    height: 680px;
+    display: inline-block;
+}
+
+.div1{
+    border: 2px solid black;
+    background-image: url(images/image2.jpeg);
+    background-size: cover;
+    margin-right: 15px;
+    margin-left: 14px;
+}
+.div2{
+    border: 2px solid red;
+    background-image: url(images/image4.jpeg);
+    background-size: cover;
+    
+    margin-right: 15px;
+}
+.div3{
+    border: 2px solid red;
+    background-image: url(images/image7.jpeg);
+    background-size: cover;
+}
+
+p{
+    text-align: justify;
+    padding: 8px;
+    color: black;
+    padding-left: 10px;
+    margin-top: 72%;
+    width: auto;
+    height: 379px;
+    padding-top: 60px;
+    background-color: white;
+    border: none;
+    color: #606770;
+    outline: none;
+    font-size: 18px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+p span{
+    font-weight: bold;
+    margin-top: -45px;
+    margin-left: -16px;
+    padding: 20px;
+    width: 300px;
+    height: 40px;
+    display: block;
+    font-size: 22px;
+    text-align: justify;
+    color: black;
+    font-family: sans-serif;
+}
+
+button{
+    width: 100px;
+    height: 38px;
+    font-size: 15px;
+    position: relative;
+    top: -44px;
+    left: 6px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.b1{
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+}
+.b2{
+    background-color: #ecec3a;
+    color: aliceblue;
+    border: none;
+}
+.b3{
+    background-color: red;
+    color: aliceblue;
+    border: none;
+}
+
+.s1{
+    font-size: 15px;
+    color: #36393d;
+    font-weight: 100;
+    top: -3px;
+    left: 73px;
+    position: relative;
+}
+
+.s1 img{
+    width: 55px;
+    height: 52px;
+    position: relative;
+    right: 63px;
+    top: 47px;
+
+}
